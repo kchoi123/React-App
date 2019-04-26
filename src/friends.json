@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "React",
+    "image": "./images/React.png"
+  },
+  {
+    "id": 2,
+    "name": "Python",
+    "image": "./images/Python.png"
+  },
+  {
+    "id": 3,
+    "name": "Node",
+    "image": "./images/Node-js.png"
+  },
+  {
+    "id": 4,
+    "name": "MySQL",
+    "image": "./images/MySQL.png"
+  },
+  {
+    "id": 5,
+    "name": "MongoDB",
+    "image": "./images/Mongodb.png"
+  },
+  {
+    "id": 6,
+    "name": "JavaScript",
+    "image": "./images/Javascript.png"
+  },
+  {
+    "id": 7,
+    "name": "HTML5",
+    "image": "./images/HTML5.png"
+  },
+  {
+    "id": 8,
+    "name": "CSS3",
+    "image": "./images/CSS3.png"
+  },
+  {
+    "id": 9,
+    "name": "C++",
+    "image": "./images/C++.png"
+  },
+  {
+    "id": 10,
+    "name": "C#",
+    "image": "./images/C_Sharp.png"
+  },
+  {
+    "id": 11,
+    "name": "C",
+    "image": "./images/C.png"
+  },
+  {
+    "id": 12,
+    "name": "Angular",
+    "image": "./images/Angular.png"
+  }
+]

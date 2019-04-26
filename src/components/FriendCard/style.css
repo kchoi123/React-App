@@ -1,10 +1,10 @@
 .card {
   background: #fff;
   border-radius: 2px;
-  height: 325px;
+  height: 162px;
   margin: 1rem;
   position: relative;
-  width: 325px;
+  width: 162px;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
   text-align: left;
 }
@@ -33,20 +33,14 @@
   margin-top: 18px;
 }
 
-.card > .remove {
-  color: #ff1744;
-  font-size: 48px;
-  position: absolute;
-  top: -20px;
-  right: 5px;
-  cursor: pointer;
+.card > .img-container:hover {
+  transform: scale(1.1);
+  border-radius: 15px;
+  background: blue;
 }
 
-.card > .remove:hover {
-  color: #d50000;
-}
-
-img {
-  width: 155px;
-  height: 155px;
-}
+.card > .img-container:active{
+  transform: scale(1.5);
+  border-radius: 25px;
+  background: red;
+ }
